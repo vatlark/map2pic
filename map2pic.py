@@ -1,8 +1,8 @@
 """
 Read a raster file a numpy array with GDAL
-IMG format files of Kauai downloaded from The National Map
+IMG format files downloaded from The National Map
 http://nationalmap.gov
-Author: Kelsey Jordahl, Enthought
+Author: Kelsey Jordahl, Enthought, Vatlark
 Scipy 2013 geospatial tutorial
 """
 import os
